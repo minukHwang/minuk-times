@@ -1,5 +1,5 @@
 # minuk-times
-### API 연결을 통한 Vanila JS 홈페이지 구축
+### API 연결을 통한 Vanila JS 홈페이지 구축  
 
 #### 학습 내용
 ---
