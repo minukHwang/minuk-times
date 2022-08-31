@@ -1,5 +1,5 @@
 # minuk-times
-**API 연결을 통한 Vanila JS 홈페이지 구축**
+###**API 연결을 통한 Vanila JS 홈페이지 구축**
 
 #### 학습 내용
 ---
@@ -11,5 +11,5 @@
 
 #### 웹사이트 링크
 ---
-link : https://resilient-crumble-19857e.netlify.app/
+link : https://resilient-crumble-19857e.netlify.app/  
 *api의 지원이 끝나면 사이트 내용이 안보일 수 있습니다.
